@@ -4,6 +4,7 @@ class FirstPage extends StatelessWidget {
   const FirstPage({Key? key}) : super(key: key);
 
   /// some important changes
+  /// we are doing other changes, second commit
 
   ///changes from master branch, second commit from master
   @override
