@@ -3,6 +3,8 @@ import 'package:intro_web/colors.dart';
 class FirstPage extends StatelessWidget {
   const FirstPage({Key? key}) : super(key: key);
 
+  /// some important changes
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
