@@ -7,6 +7,7 @@ class FirstPage extends StatelessWidget {
   /// we are doing other changes, second commit
 
   ///changes from master branch, second commit from master
+  ///some more code in master
   @override
   Widget build(BuildContext context) {
     return Scaffold(
