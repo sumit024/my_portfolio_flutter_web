@@ -1,4 +1,4 @@
-package com.wm.intro_web
+package com.wm.sumit_portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 

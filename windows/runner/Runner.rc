@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.wm" "\0"
-            VALUE "FileDescription", "intro_web" "\0"
+            VALUE "FileDescription", "sumit_portfolio" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "intro_web" "\0"
+            VALUE "InternalName", "sumit_portfolio" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.wm. All rights reserved." "\0"
-            VALUE "OriginalFilename", "intro_web.exe" "\0"
-            VALUE "ProductName", "intro_web" "\0"
+            VALUE "OriginalFilename", "sumit_portfolio.exe" "\0"
+            VALUE "ProductName", "sumit_portfolio" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

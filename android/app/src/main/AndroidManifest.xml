@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.wm.intro_web">
+    package="com.wm.sumit_portfolio">
    <application
-        android:label="intro_web"
+        android:label="sumit_portfolio"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
