@@ -1,14 +1,14 @@
 const String helloWorld='Hello World !';
 const String name= 'I am Sumit Kushwaha';
-const String nameWithPosition=  'I am Sumit Kushwaha \n\nAssociate Software Developer';
-const String position='I am an Associate Software Developer - Flutter ';
+const String nameWithPosition=  'I am Sumit Kushwaha \n\nSoftware Engineer';
+const String position='I am an Software Engineer - Flutter ';
 const String skillSet='My Skill Set :';
 
 const String viewResume='View Resume';
 const String linkedIn='LinkedIn';
 const String github='GitHub';
 const String aboutSumit='About Sumit :';
-const String aboutMe='Sumit is a developer with hands on experience of 2 years in developing native as well as cross platform mobile applications. He is skilled in Dart, Flutter and possess a great amalgamation of interpersonal skills.\n\nHe is currently employed in Webmobril Technologies Pvt. Ltd. , Noida where he started his career as Native Android Developer intern and now working in Flutter Development team.\n\nSumit holds a B.Tech in Computer Science and Engineering from Lovely Professional University, Jalandhar, demonstrating academic excellence in the field.\n\nApart from being a geek, he also loves to read and write poetry in his leisure time. He follows Indian Cricket and is a Cinephile.';
+const String aboutMe='Sumit is a developer with hands on experience of 3 years in developing native as well as cross platform mobile applications. He is skilled in Dart, Flutter and possess a great amalgamation of interpersonal skills.\n\nHe is currently employed in Webmobril Technologies Pvt. Ltd. , Noida where he started his career as Native Android Developer intern and now working in Flutter Development team.\n\nSumit holds a B.Tech in Computer Science and Engineering from Lovely Professional University, Jalandhar, demonstrating academic excellence in the field.\n\nApart from being a geek, he also loves to read and write poetry in his leisure time. He follows Indian Cricket and is a Cinephile.';
 
 const String myWork='My Work : ';
 const String passwordStrengthValidator='Password Strength Validator ';

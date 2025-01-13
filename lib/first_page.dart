@@ -717,7 +717,7 @@ class _FirstPageState extends State<FirstPage> {
           switch (iconType) {
             case SocialMediaIcon.cv:
               {
-                url='https://drive.google.com/file/d/127_AW98nE5LPlYyaJbw1gLcOvpN44Rjr/view?usp=drivesdk';
+                url='https://drive.google.com/file/d/1vvPdfBLXVcuhMZg4VXW--1shCm_dvhOp/view?usp=drivesdk';
                 break;
               }
             case SocialMediaIcon.linkedin:
