@@ -5,8 +5,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 void main() {
   runApp(const MyApp());
 }
-class MyApp extends StatelessWidget {
 
+class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
@@ -15,9 +15,11 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       minTextAdapt: true,
       designSize: const Size(360, 690),
-      builder: (_,child){
+      builder: (_, child) {
         return MediaQuery(
-          data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),
+          data: MediaQuery.of(context).copyWith(
+            textScaler: const TextScaler.linear(1.0),
+          ),
           child: MaterialApp(
             title: 'Sumit Kushwaha',
             debugShowCheckedModeBanner: false,
@@ -31,4 +33,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
