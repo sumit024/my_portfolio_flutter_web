@@ -9,14 +9,14 @@ import 'package:sumit_portfolio/widgets/skills_grid.dart';
 import 'package:sumit_portfolio/widgets/social_media_icon.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-class FirstPage extends StatefulWidget {
-  const FirstPage({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  const HomePage({Key? key}) : super(key: key);
 
   @override
-  State<FirstPage> createState() => _FirstPageState();
+  State<HomePage> createState() => _HomePageState();
 }
 
-class _FirstPageState extends State<FirstPage> {
+class _HomePageState extends State<HomePage> {
   bool _showName = false;
   double height = 0.0;
   double width = 0.0;

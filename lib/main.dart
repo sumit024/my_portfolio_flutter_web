@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sumit_portfolio/presentation/first_page.dart';
+import 'package:sumit_portfolio/presentation/home_page.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main() {
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             theme: ThemeData(
               primarySwatch: Colors.blue,
             ),
-            home: const FirstPage(),
+            home: const HomePage(),
           ),
         );
       },
